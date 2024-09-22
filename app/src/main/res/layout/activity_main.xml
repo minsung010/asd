@@ -34,7 +34,7 @@
             android:id="@+id/btnPrev"
             android:layout_width="195dp"
             android:layout_height="wrap_content"
-            android:text="이전 맛집" />
+            android:text="이저언 맛집" />
 
         <View
             android:layout_width="1dp"
